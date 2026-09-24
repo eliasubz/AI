@@ -1,12 +1,12 @@
 # AI
 
-From-scratch implementations of papers, one notebook each.
 
 - [Variational Autoencoder](vae.ipynb) [[paper]](https://arxiv.org/abs/1906.02691)
 
 ### Attention
 - [Multi-head Latent Attention](MLA.ipynb) [[paper]](https://arxiv.org/abs/2405.04434)
 - [Causal Encoder-Decoder](causal_encoder_decoder.ipynb) [[paper]](https://arxiv.org/abs/2609.19969) [[YoCo]](https://arxiv.org/abs/2405.05254)
+- [Grouped-Query Attention](GQA.ipynb) [[paper]](https://arxiv.org/abs/2305.13245)
 
 ### Kernels
 #### Triton
